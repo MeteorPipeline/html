@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.use('isobuild:compiler-plugin@1.0.0');
-  api.use('pipeline:core');
+  api.use('pipeline:core@0.0.1');
   api.addFiles('compiler.js');
   api.export('TemplatePipelineCompiler');
 });
