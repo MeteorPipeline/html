@@ -1,6 +1,6 @@
 Package.describe({
   name: 'pipeline:html',
-  version: '0.0.1',
+  version: '0.1.0',
   summary: 'HTML Template Pipeline',
   git: 'https://github.com/MeteorPipeline/html',
   documentation: null
